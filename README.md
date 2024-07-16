@@ -1,5 +1,3 @@
-# Ordering App 🛒
-
 ## **Introduction**
 
 3D Shapes React Native
